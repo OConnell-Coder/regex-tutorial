@@ -27,9 +27,7 @@ As you match the written-out description to the coded one above it, you may star
 - [Character Classes](#character-classes)
 - [Character Escapes](#character-escapes)
 - [Flags](#flags)
-- [Boundaries](#boundaries)
-- [Back-references](#back-references)
-- [Look-ahead and Look-behind](#look-ahead-and-look-behind)
+- [About the Author](#about-the-author)
 
 ## Regex Components
 
@@ -107,7 +105,7 @@ i = case-insensitive (case doesn't matter, can be uppercase or lowercase)
 m = multi-line search (keeps multi-line format for search input)  
 The email address regex does not use any flags.
 
-## Author
+## About the Author
 
 Growing up, I was always told that I "think like a robot." I suppose I took that to heart (or should I say to my PSU) because I decided to learn how to talk to computers. I learned full-stack developer skills from the University of Pennsylvania's LPS Coding Bootcamp.  
 At first, it was a drastic change from my previous careers as an English Professor and a Corporate Accountant. But I quickly found that both careers played a foundational role to my understanding of coding. From English, I brought creativity, a propensity for syntax and grammar, and a constant conceptualization of how form and design informs function and communication. From Accounting, I brought efficiency, accuracy, and precision, in a field where attention-to-detail is equally critical.  
